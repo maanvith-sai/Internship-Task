@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://maanvithsai:maanvithsai@cluster0.l0jax8z.mongodb.net/?retryWrites=true&w=majority
+      database: maanvith
